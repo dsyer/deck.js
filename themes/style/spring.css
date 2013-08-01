@@ -45,7 +45,6 @@
 }
 #footer {
     position: fixed;
-	background: url("footer.png") bottom left;
 	height: 40px;
 	bottom: 0px;
     left: 0px;
@@ -59,19 +58,17 @@
   }
 }
 #slide1 {
-  background: url("cover.png") no-repeat top;
+  background: none;
   height: 720px;
 }
 #slide1 > h1 {
   border: none;
-  color: white;
   font-weight: normal;
   text-align: center;
   padding-top: 310px;
   font-size: 1.5em;
 }
 #slide1 > p {
-	color: white;
 	font-size: 0.8em;
 	margin-top: 12px;
 	margin-bottom: 12px;
